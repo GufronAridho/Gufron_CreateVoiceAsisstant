@@ -10,6 +10,6 @@ Mentee assigment from IBM Advance AI @ Infinite Learning Course completion Creat
 
 ## Mentee Info
 
-Name : Gufron Aridho Triasa Putra Irawan
+- Name : Gufron Aridho Triasa Putra Irawan
 
-Program : IBM Advance AI
+- Program : IBM Advance AI
